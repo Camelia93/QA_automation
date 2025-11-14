@@ -1,0 +1,16 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+TestResults/
+
+# Temporary files
+*.log
+*.cache
+
+# Nu urcăm fișiere locale
+*.vsidx
